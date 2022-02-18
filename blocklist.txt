@@ -36,3 +36,5 @@
 0.0.0.0 a5.dscda1.akamai.net
 0.0.0.0 e2974.dscg.akamaiedge.net
 0.0.0.0 e9117.dscg.akamaiedge.net
+0.0.0.0 clients3.google.com
+0.0.0.0 clients.l.google.com
