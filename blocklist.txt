@@ -38,3 +38,4 @@
 0.0.0.0 e9117.dscg.akamaiedge.net
 0.0.0.0 clients3.google.com
 0.0.0.0 clients.l.google.com
+0.0.0.0 collector.github.com
